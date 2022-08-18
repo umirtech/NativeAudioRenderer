@@ -49,7 +49,7 @@ afterEvaluate {
 
                 groupId = 'com.github.UMIRTECH'
                 artifactId = 'NativeAudioRenderer'
-                version = '0.1.0'
+                version = '0.1.1'
             }
         }
     }
